@@ -1,0 +1,21 @@
+.odd {
+    color: black;
+    background-color: rgb(219, 119, 157);
+}
+
+.cool {
+    font-size: 2em;
+}
+
+#two {
+    color: blue;
+    background-color: rgb(255, 255, 255);
+    font-size: 2.5em;
+}
+
+#four {
+    color: rgb(0, 0, 0);
+    background-color: rgb(21, 255, 0);
+    font-size: 2em;
+    font-weight: bold;
+}
